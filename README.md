@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Designing and invention
 - 🌱 I’m currently learning ...to liase, communicate with potential investors 
 - 💞️ I’m looking to collaborate on ...Start up capital 
-- 📫 How to reach me ...levismith123xyz@gmail.com 
+- 📫 How to reach me ..smithlevi123xyz@gmail.com 
 
 <!---
 VI2J/VI2J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
